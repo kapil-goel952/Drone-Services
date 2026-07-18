@@ -68,17 +68,7 @@ const Navbar = () => {
               Coverage Areas
             </NavLink>
 
-            <NavLink
-              to="/about"
-              className={({ isActive }) =>
-                `text-sm font-medium pb-1 transition ${isActive
-                  ? "text-green-700 border-b-2 border-green-700"
-                  : "text-gray-700 hover:text-green-700"
-                }`
-              }
-            >
-              About Us
-            </NavLink>
+          
 
             <NavLink
               to="/contact"
@@ -98,14 +88,7 @@ const Navbar = () => {
           <div className="hidden lg:flex items-center gap-8">
 
             {/* Language Switch */}
-            <div className="text-sm text-gray-700">
-              <span className="font-medium">EN</span>
-
-              <span className="mx-2 text-gray-400">|</span>
-
-              <span>हिंदी</span>
-            </div>
-
+  
             {/* CTA */}
             <Link
               to="/service"
@@ -146,18 +129,13 @@ const Navbar = () => {
               Coverage Areas
             </Link>
 
-            <Link to="about">
-              About Us
-            </Link>
+    
 
             <Link to="/contact">
               Contact
             </Link>
 
-            <div className="pt-3 border-t">
-              EN | हिंदी
-            </div>
-
+        
             <Link
               to="/service"
               className="bg-green-800 text-white text-center py-3 rounded-xl"
