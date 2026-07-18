@@ -40,15 +40,6 @@ function App() {
       heading: "Our Coverage",
        background: 'https://www.azorobotics.com/images/Article_Images/ImageForArticle_699_17197995980611328.jpg'
     },
-    about:{
-      id: 4,
-      description: "with Drone Technology Rawal Drones is on a mission to bring advanced drone technology to agriculture in Haryana and beyond. We help farmers save time, naduce costs and achieve higher yields with precision farming",
-      tagline: "Empowering Farmers with Drone Technology",
-      btn1: "Call Now",
-      btn2: "WhatsApp Us",
-      heading: "About RAWAL DRONES",
-       background: 'https://i.ytimg.com/vi/P2YPG8PO9JU/maxresdefault.jpg'
-    },
     contact:  {
       id: 5,
       description: "Hav any question about drone spraying or want to book a service? reach out to our tem and we'll get back to you shortly.",
@@ -70,7 +61,7 @@ function App() {
             <Route path='/' element={<Home hero={hero.home} />} />
             <Route path='/service' element={<Service hero={hero.service} />} />
             <Route path='/coverage' element={<Coverage hero={hero.coverage}/>} />
-            <Route path='/about' element={<About hero={hero.about} />} />
+
             <Route path='/contact' element={<Contact hero={hero.contact}/>} />
           </Routes>
         </div>
