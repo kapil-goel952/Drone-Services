@@ -13,7 +13,7 @@ const FindUsOnMap = () => {
         overflow-hidden
       "
     >
-      {/* Header */}
+    
 
       <div className="px-6 pt-6">
         <h2 className="text-[30px] font-bold text-gray-900">
