@@ -1,5 +1,6 @@
 import React from "react";
 import Hero from "../../images/hero.jpg";
+import { Link } from "react-router-dom";
 
 const HeroSection = ({hero}) => {
 console.log({hero});
@@ -24,13 +25,16 @@ console.log({hero});
             {hero.description}.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 mt-8">
-            <button  className=" bg-green-800 text-white px-8 py-4 rounded-full font-medium hover:bg-green-900 transition">
+            <Link
+              to="/contact"
+              className=" bg-green-800 text-white px-8 py-4 rounded-full font-medium hover:bg-green-900 transition">
               {hero.btn1}
-            </button>
+            </Link>
 
-            <button
+            <Link
+              to='https://wa.me/918901943415?text=i%20wanna%20apply%20for%20this%20service'
               className="border border-green-800 text-green-800 px-8 py-4 rounded-full font-medium hover:bg-green-50 transition ">{hero.btn2}
-            </button>
+            </Link>
 
           </div>
 

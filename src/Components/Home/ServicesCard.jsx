@@ -2,31 +2,31 @@ import React from "react";
 
 const services = [
   {
-    image: "",
+    image: "https://mnd-assets.mynewsdesk.com/image/upload/ar_16:9,c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_746/wnazdbhzvweeyhn5qpbc",
     icon: "",
     title: "Crop Spraying",
     desc: "Precise spraying of pesticides and nutrients for healthier crops.",
   },
   {
-    image: "",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHk7o_IH-w-QJpsC-wLNFP0ngNvijgjNhC4z8UT1C7iSrJ-MAC6x95KQ&s=10",
     icon: "",
     title: "Fertilizer Spraying",
     desc: "Efficient distribution of liquid fertilizers for better yield.",
   },
   {
-    image: "",
+    image: "https://thumbs.dreamstime.com/b/smart-agriculture-drone-hovering-over-field-seedlings-spreading-fertilizer-seeds-smart-agriculture-drone-hovering-over-358589054.jpg",
     icon: "",
     title: "Seed Spreading",
     desc: "Accurate seed broadcasting for higher germination.",
   },
   {
-    image: "",
+    image: "https://static.euronews.com/articles/stories/06/35/06/34/1440x810_cmsv2_3ad468db-0f7f-5086-a023-968f13f2c569-6350634.jpg",
     icon: "",
     title: "Mapping & Surveying",
     desc: "High-resolution mapping and land analysis.",
   },
   {
-    image: "",
+    image: "https://www.xboom.in/wp-content/uploads/2024/04/SMB320-Agricultural-drone.jpg",
     icon: "",
     title: "Crop Health Analytics",
     desc: "Data-driven insights for smarter farming decisions.",

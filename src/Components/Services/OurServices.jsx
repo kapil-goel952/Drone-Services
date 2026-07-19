@@ -3,7 +3,7 @@ import ServiceCard from "./ServicesCard";
 const services = [
     {
         id: 1,
-        image: "/images/spraying.jpg",
+        image: "https://mnd-assets.mynewsdesk.com/image/upload/ar_16:9,c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_746/wnazdbhzvweeyhn5qpbc",
         number: "1.",
         title: "Crop Spraying",
         description:
@@ -16,7 +16,7 @@ const services = [
     },
     {
         id: 2,
-        image: "/images/fertilizer.jpg",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHk7o_IH-w-QJpsC-wLNFP0ngNvijgjNhC4z8UT1C7iSrJ-MAC6x95KQ&s=10",
         number: "2.",
         title: "Fertilizer Spraying",
         description:
@@ -29,7 +29,7 @@ const services = [
     },
     {
         id: 3,
-        image: "/images/seed.jpg",
+        image: "https://thumbs.dreamstime.com/b/smart-agriculture-drone-hovering-over-field-seedlings-spreading-fertilizer-seeds-smart-agriculture-drone-hovering-over-358589054.jpg",
         number: "3.",
         title: "Seed Spreading",
         description:
@@ -42,7 +42,7 @@ const services = [
     },
     {
         id: 4,
-        image: "/images/mapping.jpg",
+        image: "https://static.euronews.com/articles/stories/06/35/06/34/1440x810_cmsv2_3ad468db-0f7f-5086-a023-968f13f2c569-6350634.jpg",
         number: "4.",
         title: "Mapping & Surveying",
         description:
@@ -55,7 +55,7 @@ const services = [
     },
     {
         id: 5,
-        image: "/images/analytics.jpg",
+        image: "https://www.xboom.in/wp-content/uploads/2024/04/SMB320-Agricultural-drone.jpg",
         number: "5.",
         title: "Crop Health Analytics",
         description:
@@ -68,7 +68,7 @@ const services = [
     }, 
     {
         id: 6,
-        image: "/images/inspection.jpg",
+        image: "https://ik.imagekit.io/equinoxsdrones/blog/img/visual-drone-inspection-across-different-industries/CROP_DAMAGE__EQUINOX_S_DRONES_pUGSBMbmP.jpg",
         number: "6.",
         title: "Field Inspection",
         description:
@@ -104,3 +104,4 @@ export default function OurServices() {
         </section>
     );
 }
+// ads

@@ -60,7 +60,6 @@ function App() {
             <Route path='/' element={<Home hero={hero.home} />} />
             <Route path='/service' element={<Service hero={hero.service} />} />
             <Route path='/coverage' element={<Coverage hero={hero.coverage}/>} />
-
             <Route path='/contact' element={<Contact hero={hero.contact}/>} />
           </Routes>
         </div>
