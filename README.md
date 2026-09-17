@@ -80,3 +80,41 @@ To deploy:
 npm run deploy
 
 Make sure your GitHub Pages configuration is correctly set up before deployment.
+
+🎯 Project Goals
+Learn and practice modern React development.
+Build responsive and visually appealing web interfaces.
+Understand component-based architecture.
+Improve frontend development and UI/UX skills.
+Explore deployment using GitHub Pages.
+🔮 Future Improvements
+
+Add more drone service categories.
+
+Add a service booking system.
+
+Add contact and inquiry forms.
+
+Integrate backend services.
+
+Add authentication functionality.
+
+Improve accessibility and performance.
+
+🤝 Contributing
+
+Contributions, suggestions, and feedback are welcome.
+
+Fork the repository.
+Create a new branch.
+Make your changes.
+Commit your changes.
+Open a Pull Request.
+📄 License
+
+This project currently does not specify a license.
+
+Developed by Kapil Goel
+
+⭐ If you find this project interesting, consider giving it a star!
+
