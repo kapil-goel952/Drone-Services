@@ -17,3 +17,15 @@ The project focuses on building a responsive frontend using modern web technolog
 🎯 Lucide React icons
 📱 Responsive design for different screen sizes
 🌐 GitHub Pages deployment support
+
+
+
+
+🛠️ Tech Stack
+Technology	Purpose
+React	Frontend development
+Vite	Development server and build tool
+Tailwind CSS	Styling and responsive layouts
+React Router	Application routing
+Lucide React	Icons
+GitHub Pages	Deployment
